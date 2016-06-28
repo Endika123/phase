@@ -11,7 +11,7 @@
 
 const int BIGINT    = 9999;     // max size for MS allele
 const int NMAXD     = 4;        // used when outputting ids 
-const int KMAX      = 50;       // Number of alleles
+const int KMAX      = 75;       // Number of alleles
 const int ITPRINT    = 10;      // how often to print iteration number
 
 const int MAXLISTLENGTH = 11;
